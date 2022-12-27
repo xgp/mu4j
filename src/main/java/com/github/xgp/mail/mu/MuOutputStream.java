@@ -1,4 +1,4 @@
-package com.tunnel19.mail.mu;
+package com.github.xgp.mail.mu;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.tunnel19.mail.mu;
+package com.github.xgp.mail.mu;
 
 import de.tudresden.inf.lat.jsexp.Sexp;
 import de.tudresden.inf.lat.jsexp.SexpFactory;
